@@ -1,6 +1,6 @@
 {
   "name": "onedionys-web-storage-abstraction",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "One Dionys (Web Storage Abstraction) - A set of functions to manage web storage including local storage, session storage, and cookies.",
   "main": "src/webStorage.js",
   "directories": {
